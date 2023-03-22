@@ -8,8 +8,11 @@ Description: The objective of this project is to analyze music data to predict f
 The project will explore the following main questions:
 
 -How do music trends vary across different countries worldwide?
+
 -Analyze the most popular songs and artists in the US on Spotify in recent years.
+
 -How does Spotify data compare to The Billboard Hot 100?
+
 -Can data from past hit songs be utilized to develop a hit song "formula"?
 
 

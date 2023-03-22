@@ -18,7 +18,9 @@ The project will explore the following main questions:
 
 Datasets: 
 -https://www.kaggle.com/yamaerenay/spotify-tracks-dataset-19222021?select=US.csv
+
 -https://www.kaggle.com/dhruvildave/spotify-charts?select=charts.csv
+
 -https://www.kaggle.com/leonardopena/top-spotify-songs-from-20102019-by-year 
 
 Steps:
